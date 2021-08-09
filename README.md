@@ -20,3 +20,5 @@ This will be the walkthrough on utilizing NodeJS through the lens of this API
 from there you should be able to open the local host url running
 
 1) make sure to use the Dev Dashboard to get the client ID and secret 
+2) edit settings in dashboard to set the redirect URI
+
